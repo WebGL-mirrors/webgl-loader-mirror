@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/75/trunk/samples/happy
+END
+bench.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/69/trunk/samples/happy/bench.html
+END
+happy.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/71/trunk/samples/happy/happy.html
+END
+happy.utf8
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/75/trunk/samples/happy/happy.utf8
+END
+bench.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/samples/happy/bench.js
+END

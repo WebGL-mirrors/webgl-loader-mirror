@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/24/trunk/samples/testing
+END
+codepoints.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/trunk/samples/testing/codepoints.js
+END
+gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/samples/testing/gen.sh
+END
+all_codepoints.utf8
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/samples/testing/all_codepoints.utf8
+END
+good_codepoints.utf8
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/samples/testing/good_codepoints.utf8
+END
+testing.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/24/trunk/samples/testing/testing.js
+END
+codepoints.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/trunk/samples/testing/codepoints.html
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/samples/testing/clean.sh
+END

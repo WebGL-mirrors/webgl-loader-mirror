@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/75/trunk/samples
+END
+samples.js
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/65/trunk/samples/samples.js
+END
+server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/44/trunk/samples/server.sh
+END
+renderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/64/trunk/samples/renderer.js
+END
+loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/72/trunk/samples/loader.js
+END
+walt.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/66/trunk/samples/walt.js
+END
+gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/51/trunk/samples/gen.sh
+END
+base.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/72/trunk/samples/base.js
+END
+ben.utf8
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/75/trunk/samples/ben.utf8
+END
+samples.css
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/64/trunk/samples/samples.css
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/51/trunk/samples/clean.sh
+END
+walt.utf8
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/75/trunk/samples/walt.utf8
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/trunk/samples/README
+END
+hand.utf8
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/75/trunk/samples/hand.utf8
+END
+webgl-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/47/trunk/samples/webgl-debug.js
+END
+gl-matrix-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/52/trunk/samples/gl-matrix-min.js
+END
+ben.html
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/64/trunk/samples/ben.html
+END
+walt.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/66/trunk/samples/walt.html
+END
+webgl.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/66/trunk/samples/webgl.js
+END
+hand.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/69/trunk/samples/hand.html
+END

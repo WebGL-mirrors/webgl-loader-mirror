@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/54/trunk/src/testing
+END
+hex_sanity.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/54/trunk/src/testing/hex_sanity.cc
+END
+good_codepoints.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/src/testing/good_codepoints.cc
+END
+all_codepoints.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/src/testing/all_codepoints.cc
+END
+wavefront_obj_file_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/trunk/src/testing/wavefront_obj_file_test.cc
+END
+face_list_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/33/trunk/src/testing/face_list_test.cc
+END

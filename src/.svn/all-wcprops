@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/77/trunk/src
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/73/trunk/src/base.h
+END
+objanalyze.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/41/trunk/src/objanalyze.cc
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/74/trunk/src/mesh.h
+END
+optimize.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/54/trunk/src/optimize.h
+END
+objcompress.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/62/trunk/src/objcompress.cc
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/61/trunk/src/utf8.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/18/trunk/src/README
+END
